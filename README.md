@@ -3,7 +3,7 @@
 ## Q2:
 - Webapp is built on the Vue.js framework. The main entry-point of the app is **main.js** and the webapp can be started using the `npm run serve` command. 
 
-- **api.js** contains a simple api server that will respond to requests with the required json
+- **api.js** contains a simple api server that will respond to requests with the required JSON. JSON attributes are generated randomly (Refresh the app to see changes)
 
 ## Q3:
 - Entry point is through the **index.html** file.
